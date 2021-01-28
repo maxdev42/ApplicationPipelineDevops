@@ -16,7 +16,7 @@ namespace TestAwsS3
         {
             try
             {
-                var credentials = new BasicAWSCredentials("AKIAJUAEARELKTULQ3FQ", "eW+oN0aJpPat+N73Gxr5zac3U+6x7xlRoNoSP6JS");
+                var credentials = new BasicAWSCredentials("##keyS3##", "##passwordS3##");
                 var config = new AmazonS3Config
                 {
                     RegionEndpoint = Amazon.RegionEndpoint.EUWest3
