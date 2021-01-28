@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: test-app-front
+  labels:
+    app: test-app-front
+spec:
+  replicas: 1
+  revisionHistoryLimit: 0
+  selector:
+    matchLabels:
+      app: test-app-front
+  template:
+    metadata:
+      labels:
+        app: test-app-front
+    spec:
+      containers:
+      - name: test-app-front
+        image: maxdev42/white-app-front:latest
+        imagePullPolicy: Always
+        resources:
+          limits:
+            memory: 100Mi
+          requests:
+            cpu: 5m
+            memory: 100Mi
+      imagePullSecrets:
+      - name: project-registries

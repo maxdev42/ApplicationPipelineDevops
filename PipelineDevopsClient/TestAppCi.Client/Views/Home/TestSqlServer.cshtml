@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Test SQL Server";
+}
+<h3>@ViewData["Title"]</h3>
+
+<br>
+<div>
+    <button type="button" class="btn btn-info" id="btnLaunchTestApi" onclick="runTestSqlServer();">Launch Test SQL Server Process</button>
+    <br><br>
+    <section id="about">
+        <div class="border container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 id="resultSectionTitle">See results below :</h2>
+                    <br><br>
+                    <ul id="content">
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

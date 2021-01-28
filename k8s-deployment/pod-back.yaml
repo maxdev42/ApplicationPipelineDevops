@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: test-app-back
+  labels:
+    app: test-app-back
+spec:
+  replicas: 1
+  revisionHistoryLimit: 0
+  selector:
+    matchLabels:
+      app: test-app-back
+  template:
+    metadata:
+      labels:
+        app: test-app-back
+    spec:
+      containers:
+      - name: test-app-back
+        image: maxdev42/white-app-back:latest
+        imagePullPolicy: Always
+        resources:
+          limits:
+            memory: 100Mi
+          requests:
+            cpu: 5m
+            memory: 100Mi
+      imagePullSecrets:
+      - name: project-registries

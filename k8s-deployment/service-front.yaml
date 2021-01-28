@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: test-app-front-service
+spec:
+  selector:
+    app: test-app-front
+  type: NodePort
+  ports:
+  - name: front
+    port: 80
+    targetPort: 80

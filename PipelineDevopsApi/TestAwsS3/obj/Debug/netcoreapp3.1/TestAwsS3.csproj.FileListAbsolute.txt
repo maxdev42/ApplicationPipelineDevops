@@ -1,0 +1,9 @@
+C:\Users\MaxDev42\source\repos\git\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\bin\Debug\netcoreapp3.1\TestAwsS3.deps.json
+C:\Users\MaxDev42\source\repos\git\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\bin\Debug\netcoreapp3.1\TestAwsS3.dll
+C:\Users\MaxDev42\source\repos\git\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\bin\Debug\netcoreapp3.1\TestAwsS3.pdb
+C:\Users\MaxDev42\source\repos\git\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\TestAwsS3.csprojAssemblyReference.cache
+C:\Users\MaxDev42\source\repos\git\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\TestAwsS3.AssemblyInfoInputs.cache
+C:\Users\MaxDev42\source\repos\git\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\TestAwsS3.AssemblyInfo.cs
+C:\Users\MaxDev42\source\repos\git\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\TestAwsS3.csproj.CoreCompileInputs.cache
+C:\Users\MaxDev42\source\repos\git\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\TestAwsS3.dll
+C:\Users\MaxDev42\source\repos\git\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\TestAwsS3.pdb
