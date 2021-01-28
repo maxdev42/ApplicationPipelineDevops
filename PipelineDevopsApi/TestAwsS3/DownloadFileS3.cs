@@ -17,7 +17,7 @@ namespace TestAwsS3
         public static async Task DownloadFileFromS3(string fileName)
         {
 
-            client = new AmazonS3Client("AKIAJUAEARELKTULQ3FQ", "eW+oN0aJpPat+N73Gxr5zac3U+6x7xlRoNoSP6JS", bucketRegion);
+            client = new AmazonS3Client("##keyS3##", "##passwordS3##", bucketRegion);
 
             string responseBody = "";
 
