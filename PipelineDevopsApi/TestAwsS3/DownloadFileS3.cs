@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TestAwsS3
 {
-    class DownloadFileS3
+    public class DownloadFileS3
     {
         private const string bucketName = "test-app-devops";
 

@@ -26,7 +26,7 @@ namespace PipelineDevopsApi.Service.Controllers
         {
             try
             {
-                UploadFileS3.DownloadFileFromS3(filename);
+                DownloadFileS3.DownloadFileFromS3(filename);
                 return "Process executed API POST !";
             }
             catch (Exception e)

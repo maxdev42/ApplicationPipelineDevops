@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MaxDev42\\source\\repos\\git\\TestAppCI\\TestAppCi.Client\\TestAppCi.Client.csproj",
+      "projectUniqueName": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj",
       "projectName": "TestAppCi.Client",
-      "projectPath": "C:\\Users\\MaxDev42\\source\\repos\\git\\TestAppCI\\TestAppCi.Client\\TestAppCi.Client.csproj",
+      "projectPath": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj",
       "packagesPath": "C:\\Users\\MaxDev42\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MaxDev42\\source\\repos\\git\\TestAppCI\\TestAppCi.Client\\obj\\",
+      "outputPath": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

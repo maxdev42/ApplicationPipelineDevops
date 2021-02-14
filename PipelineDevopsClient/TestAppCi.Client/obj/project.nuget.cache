@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cw/Hrw+VdBxpTgoZtDuv4XCJ/VNHYEN0SkqLfOkxH3RVhyRH7sddOQcXsKrR2oLHiuRS0RJmm7pWcGzBmOQ1UQ==",
+  "dgSpecHash": "/C8eiqqIB1V52Kye5HfMfzn3KOZYeB0WfnEa3BacL1wefwy52+YjosBvya09KagheBhAJeweuyadYMQBBITUKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MaxDev42\\source\\repos\\git\\TestAppCI\\TestAppCi.Client\\TestAppCi.Client.csproj",
+  "projectFilePath": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MaxDev42\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
     "C:\\Users\\MaxDev42\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.7\\microsoft.aspnet.webpages.3.2.7.nupkg.sha512",

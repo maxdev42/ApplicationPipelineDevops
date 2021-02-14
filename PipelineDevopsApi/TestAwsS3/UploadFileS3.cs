@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace TestAwsS3
 {
-  
     public class UploadFileS3
     {
 
