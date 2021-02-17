@@ -6,12 +6,12 @@
 
 function runTestApi() {
 
-    fetch("/TestApi")
+    fetch("TestApi")
         .then(response => {
             return response.json();
         })
         .then(data => {
-            document.getElementById("content").innerHTML = '<p style="font-size: 20px;"><b>Status : </b> ' + data["Value"] + '</p>';
+            document.getElementById("content").innerHTML = '<p style="font-size: 20px;"><b>Status de l\'API : </b> ' + data["Value"] + '</p>';
         })
         .then(error => console.log('error', error));
 }
