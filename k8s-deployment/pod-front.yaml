@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: test-app-front
-        image: maxdev42/white-app-front:latest
+        image: maxdev42/pipeline-devops-client-image:v0
         imagePullPolicy: Always
         resources:
           limits:
