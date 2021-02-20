@@ -18,7 +18,7 @@ function runTestApi() {
 
 function runTestSqlServer() {
 
-    fetch("TestApi")
+    fetch("TestSqlServer")
         .then(response => {
             return response.json();
         })
