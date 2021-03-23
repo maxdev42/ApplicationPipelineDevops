@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using NetCore.FileSystem.S3;
 using PipelineDevopsApi.Service.Services;
 using System;
-using TestAwsS3;
 
 namespace PipelineDevopsApi.Service.Controllers
 {

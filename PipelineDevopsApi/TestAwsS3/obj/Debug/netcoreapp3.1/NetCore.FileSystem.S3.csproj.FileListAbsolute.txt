@@ -1,0 +1,8 @@
+C:\Users\maxde\source\GitHub\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\bin\Debug\netcoreapp3.1\NetCore.FileSystem.S3.deps.json
+C:\Users\maxde\source\GitHub\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\bin\Debug\netcoreapp3.1\NetCore.FileSystem.S3.dll
+C:\Users\maxde\source\GitHub\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\bin\Debug\netcoreapp3.1\NetCore.FileSystem.S3.pdb
+C:\Users\maxde\source\GitHub\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\NetCore.FileSystem.S3.AssemblyInfoInputs.cache
+C:\Users\maxde\source\GitHub\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\NetCore.FileSystem.S3.AssemblyInfo.cs
+C:\Users\maxde\source\GitHub\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\NetCore.FileSystem.S3.csproj.CoreCompileInputs.cache
+C:\Users\maxde\source\GitHub\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\NetCore.FileSystem.S3.dll
+C:\Users\maxde\source\GitHub\ApplicationPipelineDevops\PipelineDevopsApi\TestAwsS3\obj\Debug\netcoreapp3.1\NetCore.FileSystem.S3.pdb

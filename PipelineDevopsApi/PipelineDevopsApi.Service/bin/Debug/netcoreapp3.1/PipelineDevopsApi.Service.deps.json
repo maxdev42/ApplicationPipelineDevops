@@ -24,10 +24,10 @@
     ".NETCoreApp,Version=v3.1": {
       "PipelineDevopsApi.Service/1.0.0": {
         "dependencies": {
-          "AWSSDK.S3": "3.5.7.10",
+          "AWSSDK.S3": "3.5.10",
+          "NetCore.FileSystem.S3": "1.0.0",
           "Newtonsoft.Json": "12.0.3",
-          "Swashbuckle.AspNetCore": "5.6.3",
-          "TestAwsS3": "1.0.0",
+          "Swashbuckle.AspNetCore": "6.1.1",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -315,32 +315,32 @@
           "PipelineDevopsApi.Service.dll": {}
         }
       },
-      "AWSSDK.Core/3.5.2.2": {
+      "AWSSDK.Core/3.5.3.8": {
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.Core.dll": {
             "assemblyVersion": "3.3.0.0",
-            "fileVersion": "3.5.2.2"
+            "fileVersion": "3.5.3.8"
           }
         },
         "compile": {
           "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
         }
       },
-      "AWSSDK.S3/3.5.7.10": {
+      "AWSSDK.S3/3.5.10": {
         "dependencies": {
-          "AWSSDK.Core": "3.5.2.2"
+          "AWSSDK.Core": "3.5.3.8"
         },
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.S3.dll": {
             "assemblyVersion": "3.3.0.0",
-            "fileVersion": "3.5.7.10"
+            "fileVersion": "3.5.10.0"
           }
         },
         "compile": {
           "lib/netcoreapp3.1/AWSSDK.S3.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Http.Features/5.0.2": {
+      "Microsoft.AspNetCore.Http.Features/5.0.4": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "5.0.0",
           "System.IO.Pipelines": "5.0.1"
@@ -348,7 +348,7 @@
         "runtime": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
             "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.220.61302"
+            "fileVersion": "5.0.421.11815"
           }
         },
         "compile": {
@@ -389,47 +389,47 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Swashbuckle.AspNetCore/5.6.3": {
+      "Swashbuckle.AspNetCore/6.1.1": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "3.0.0",
-          "Swashbuckle.AspNetCore.Swagger": "5.6.3",
-          "Swashbuckle.AspNetCore.SwaggerGen": "5.6.3",
-          "Swashbuckle.AspNetCore.SwaggerUI": "5.6.3"
+          "Swashbuckle.AspNetCore.Swagger": "6.1.1",
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.1.1",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.1.1"
         }
       },
-      "Swashbuckle.AspNetCore.Swagger/5.6.3": {
+      "Swashbuckle.AspNetCore.Swagger/6.1.1": {
         "dependencies": {
           "Microsoft.OpenApi": "1.2.3"
         },
         "runtime": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "assemblyVersion": "5.6.3.0",
-            "fileVersion": "5.6.3.0"
+            "assemblyVersion": "6.1.1.0",
+            "fileVersion": "6.1.1.0"
           }
         },
         "compile": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {}
         }
       },
-      "Swashbuckle.AspNetCore.SwaggerGen/5.6.3": {
+      "Swashbuckle.AspNetCore.SwaggerGen/6.1.1": {
         "dependencies": {
-          "Swashbuckle.AspNetCore.Swagger": "5.6.3"
+          "Swashbuckle.AspNetCore.Swagger": "6.1.1"
         },
         "runtime": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "assemblyVersion": "5.6.3.0",
-            "fileVersion": "5.6.3.0"
+            "assemblyVersion": "6.1.1.0",
+            "fileVersion": "6.1.1.0"
           }
         },
         "compile": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
         }
       },
-      "Swashbuckle.AspNetCore.SwaggerUI/5.6.3": {
+      "Swashbuckle.AspNetCore.SwaggerUI/6.1.1": {
         "runtime": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "assemblyVersion": "5.6.3.0",
-            "fileVersion": "5.6.3.0"
+            "assemblyVersion": "6.1.1.0",
+            "fileVersion": "6.1.1.0"
           }
         },
         "compile": {
@@ -447,16 +447,16 @@
           "ref/netcoreapp2.0/System.IO.Pipelines.dll": {}
         }
       },
-      "TestAwsS3/1.0.0": {
+      "NetCore.FileSystem.S3/1.0.0": {
         "dependencies": {
-          "AWSSDK.S3": "3.5.7.10",
-          "Microsoft.AspNetCore.Http.Features": "5.0.2"
+          "AWSSDK.S3": "3.5.10",
+          "Microsoft.AspNetCore.Http.Features": "5.0.4"
         },
         "runtime": {
-          "TestAwsS3.dll": {}
+          "NetCore.FileSystem.S3.dll": {}
         },
         "compile": {
-          "TestAwsS3.dll": {}
+          "NetCore.FileSystem.S3.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2141,26 +2141,26 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AWSSDK.Core/3.5.2.2": {
+    "AWSSDK.Core/3.5.3.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-OCkQYWWbNARvPoOvMS0JZvQbF0xSAIe4Aps4riB61uKkCO6YUk5bOxkZ5Wq9cyF1wu0/IQaMwCFaBASPaxWHpg==",
-      "path": "awssdk.core/3.5.2.2",
-      "hashPath": "awssdk.core.3.5.2.2.nupkg.sha512"
+      "sha512": "sha512-qF5cq1RuE2GD6EQu0Bef1I06yzVTwSlW0FBxMXT1bGd+dF0Rcoa0grH7P6KbRp9HyIzWPOEdlMIx0yX1puTFCA==",
+      "path": "awssdk.core/3.5.3.8",
+      "hashPath": "awssdk.core.3.5.3.8.nupkg.sha512"
     },
-    "AWSSDK.S3/3.5.7.10": {
+    "AWSSDK.S3/3.5.10": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LSFx+s/GBAhcYKfVp2Xz58sz/3Kdi83ofrC3LYUprY1Ho1R0xl9WN5noVJpYSOopD5TgL88H1/Pnj/HdnLYMJw==",
-      "path": "awssdk.s3/3.5.7.10",
-      "hashPath": "awssdk.s3.3.5.7.10.nupkg.sha512"
+      "sha512": "sha512-+GEomAJD1oUiSJvYDX56JFbDHsGGKzqXG4zKNWbrSQ2+ac/qh/NnAtkYl4QfcfMGJFp9vItYrVnga6o2aQ/IBA==",
+      "path": "awssdk.s3/3.5.10",
+      "hashPath": "awssdk.s3.3.5.10.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Http.Features/5.0.2": {
+    "Microsoft.AspNetCore.Http.Features/5.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Z46X8k6sLEfmvPlDO+hKOVfiRpuHIw3G5BNaAcvvOdNMraeC8768Wisi+4ZsNdGdU6iHw1K1LGsTI4bFH7OeXA==",
-      "path": "microsoft.aspnetcore.http.features/5.0.2",
-      "hashPath": "microsoft.aspnetcore.http.features.5.0.2.nupkg.sha512"
+      "sha512": "sha512-w4ffAN7/k9DvEGMvkA38iADqwqoEIiT7z4+KsdB6EUEZs7u/AAs46X0cEfoovYCPglw7EBXJO7MoafLdGw/2vQ==",
+      "path": "microsoft.aspnetcore.http.features/5.0.4",
+      "hashPath": "microsoft.aspnetcore.http.features.5.0.4.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "type": "package",
@@ -2190,33 +2190,33 @@
       "path": "newtonsoft.json/12.0.3",
       "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
     },
-    "Swashbuckle.AspNetCore/5.6.3": {
+    "Swashbuckle.AspNetCore/6.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-UkL9GU0mfaA+7RwYjEaBFvAzL8qNQhNqAeV5uaWUu/Z+fVgvK9FHkGCpTXBqSQeIHuZaIElzxnLDdIqGzuCnVg==",
-      "path": "swashbuckle.aspnetcore/5.6.3",
-      "hashPath": "swashbuckle.aspnetcore.5.6.3.nupkg.sha512"
+      "sha512": "sha512-qeGNdISDXqZT2oYWwFWgCiYTnJFxU3qYzZ+xyM/iU/kvI/KWlJGHTxlhLb3giAFxFZM5nRgkHGFb8yfNgr7+kQ==",
+      "path": "swashbuckle.aspnetcore/6.1.1",
+      "hashPath": "swashbuckle.aspnetcore.6.1.1.nupkg.sha512"
     },
-    "Swashbuckle.AspNetCore.Swagger/5.6.3": {
+    "Swashbuckle.AspNetCore.Swagger/6.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-rn/MmLscjg6WSnTZabojx5DQYle2GjPanSPbCU3Kw8Hy72KyQR3uy8R1Aew5vpNALjfUFm2M/vwUtqdOlzw+GA==",
-      "path": "swashbuckle.aspnetcore.swagger/5.6.3",
-      "hashPath": "swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512"
+      "sha512": "sha512-JbLsVspdKevDJ6NZT+uP06Zfr1iCDbFjmIvUyoG88GgFkM/Daaq2EGUAG7INZl+FEcoVxPG9A+yWRik75ATGbw==",
+      "path": "swashbuckle.aspnetcore.swagger/6.1.1",
+      "hashPath": "swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512"
     },
-    "Swashbuckle.AspNetCore.SwaggerGen/5.6.3": {
+    "Swashbuckle.AspNetCore.SwaggerGen/6.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CkhVeod/iLd3ikVTDOwG5sym8BE5xbqGJ15iF3cC7ZPg2kEwDQL4a88xjkzsvC9oOB2ax6B0rK0EgRK+eOBX+w==",
-      "path": "swashbuckle.aspnetcore.swaggergen/5.6.3",
-      "hashPath": "swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512"
+      "sha512": "sha512-kfoGF5scayoUVXo9wIN8OgvdYJr97V/yPdSrLNXcvbthOCU1vXTv8HJQMJ3OGyG9CpIAp2wfHI2gCmvbVKkMCQ==",
+      "path": "swashbuckle.aspnetcore.swaggergen/6.1.1",
+      "hashPath": "swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512"
     },
-    "Swashbuckle.AspNetCore.SwaggerUI/5.6.3": {
+    "Swashbuckle.AspNetCore.SwaggerUI/6.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-BPvcPxQRMsYZ3HnYmGKRWDwX4Wo29WHh14Q6B10BB8Yfbbcza+agOC2UrBFA1EuaZuOsFLbp6E2+mqVNF/Je8A==",
-      "path": "swashbuckle.aspnetcore.swaggerui/5.6.3",
-      "hashPath": "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+      "sha512": "sha512-NlR3zDm0kGWNClJWPzWrGBoQn4SY6Fgpz9D5p30bKsUYzFfM7L5vVo88BktpUyCJb6zHtCOsazN+vzQn7NVjUg==",
+      "path": "swashbuckle.aspnetcore.swaggerui/6.1.1",
+      "hashPath": "swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512"
     },
     "System.IO.Pipelines/5.0.1": {
       "type": "package",
@@ -2225,7 +2225,7 @@
       "path": "system.io.pipelines/5.0.1",
       "hashPath": "system.io.pipelines.5.0.1.nupkg.sha512"
     },
-    "TestAwsS3/1.0.0": {
+    "NetCore.FileSystem.S3/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

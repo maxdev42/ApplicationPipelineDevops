@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PipelineDevopsApi.Service",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.FileSystem.S3", "TestAwsS3\NetCore.FileSystem.S3.csproj", "{3B766279-CBC4-425E-AED6-E33B0402D8F8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestVaultSecrets", "TestVaultSecrets\TestVaultSecrets.csproj", "{CCDC519E-6134-46CE-88F7-5AA1A25E9824}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{3B766279-CBC4-425E-AED6-E33B0402D8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B766279-CBC4-425E-AED6-E33B0402D8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B766279-CBC4-425E-AED6-E33B0402D8F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CCDC519E-6134-46CE-88F7-5AA1A25E9824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CCDC519E-6134-46CE-88F7-5AA1A25E9824}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CCDC519E-6134-46CE-88F7-5AA1A25E9824}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CCDC519E-6134-46CE-88F7-5AA1A25E9824}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
