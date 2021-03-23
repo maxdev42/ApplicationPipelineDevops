@@ -190,25 +190,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maxde\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\MaxDev42\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxde\\source\\GitHub\\ApplicationPipelineDevops\\PipelineDevopsApi\\TestAwsS3\\NetCore.FileSystem.S3.csproj",
+      "projectUniqueName": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsApi\\TestAwsS3\\NetCore.FileSystem.S3.csproj",
       "projectName": "NetCore.FileSystem.S3",
-      "projectPath": "C:\\Users\\maxde\\source\\GitHub\\ApplicationPipelineDevops\\PipelineDevopsApi\\TestAwsS3\\NetCore.FileSystem.S3.csproj",
-      "packagesPath": "C:\\Users\\maxde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxde\\source\\GitHub\\ApplicationPipelineDevops\\PipelineDevopsApi\\TestAwsS3\\obj\\",
+      "projectPath": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsApi\\TestAwsS3\\NetCore.FileSystem.S3.csproj",
+      "packagesPath": "C:\\Users\\MaxDev42\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsApi\\TestAwsS3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\maxde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MaxDev42\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -259,7 +257,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
