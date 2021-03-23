@@ -23,7 +23,7 @@ namespace PipelineDevopsApi.Service
             services.AddCors(options => options.AddPolicy(name: MyAllowSpecificOrigins, builder =>
             {
                 builder
-                .WithOrigins("http://localhost:8080", "http://localhost")
+                .WithOrigins("http://localhost:8080", "http://localhost", "https://localhost:44347")
                 .SetIsOriginAllowedToAllowWildcardSubdomains()
                 .AllowAnyMethod()
                 .AllowAnyHeader()

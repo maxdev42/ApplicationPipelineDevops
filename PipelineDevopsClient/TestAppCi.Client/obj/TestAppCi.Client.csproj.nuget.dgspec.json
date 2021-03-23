@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj": {}
+    "C:\\Users\\maxde\\source\\GitHub\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj": {
+    "C:\\Users\\maxde\\source\\GitHub\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj",
+        "projectUniqueName": "C:\\Users\\maxde\\source\\GitHub\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj",
         "projectName": "TestAppCi.Client",
-        "projectPath": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj",
-        "packagesPath": "C:\\Users\\MaxDev42\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\obj\\",
+        "projectPath": "C:\\Users\\maxde\\source\\GitHub\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\TestAppCi.Client.csproj",
+        "packagesPath": "C:\\Users\\maxde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxde\\source\\GitHub\\ApplicationPipelineDevops\\PipelineDevopsClient\\TestAppCi.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\MaxDev42\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maxde\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -75,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

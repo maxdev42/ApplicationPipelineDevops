@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ONUy2nzYLqDAp5kHoV5ZX11CUaIUZ9pmFyulWdxjMAmgwXasFh/jcmeA7aeXPNJpm8DHDwa0hruPzczkV5noYg==",
+  "dgSpecHash": "3IjRQGrPVW4sZRnlwOmqqutmA5eHg0PR646ItpaAz4prk0bdhmGih5rbLtH3rtCpaKYZSdYTm3ETyCeQtvoWBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsApi\\TestAwsS3\\TestAwsS3.csproj",
+  "projectFilePath": "C:\\Users\\maxde\\source\\GitHub\\ApplicationPipelineDevops\\PipelineDevopsApi\\TestAwsS3\\NetCore.FileSystem.S3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\awssdk.core\\3.5.2.2\\awssdk.core.3.5.2.2.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\awssdk.s3\\3.5.7.10\\awssdk.s3.3.5.7.10.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.2\\microsoft.aspnetcore.http.features.5.0.2.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+    "C:\\Users\\maxde\\.nuget\\packages\\awssdk.core\\3.5.3.8\\awssdk.core.3.5.3.8.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\awssdk.s3\\3.5.10\\awssdk.s3.3.5.10.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.4\\microsoft.aspnetcore.http.features.5.0.4.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

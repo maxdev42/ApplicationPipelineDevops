@@ -1,21 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "RijqH1TwW7UwGlGyNjZQryaPx1+kFvJCdrFpoG6BVt8K/VqV00JdCIBSPB8FtAHTwr8zdkCbRYRYZ/kF8PUa3A==",
+  "dgSpecHash": "UDtKS2cOvd5tjazA63RhaxQ01m359snlf0VcTIlVk8EEeWLNzkooNrKYasbvwdqiJJaFUR7G+thJVArWFqcEnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MaxDev42\\source\\repos\\git\\ApplicationPipelineDevops\\PipelineDevopsApi\\PipelineDevopsApi.Service\\PipelineDevopsApi.Service.csproj",
+  "projectFilePath": "C:\\Users\\maxde\\source\\GitHub\\ApplicationPipelineDevops\\PipelineDevopsApi\\PipelineDevopsApi.Service\\PipelineDevopsApi.Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\awssdk.core\\3.5.2.2\\awssdk.core.3.5.2.2.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\awssdk.s3\\3.5.7.10\\awssdk.s3.3.5.7.10.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.2\\microsoft.aspnetcore.http.features.5.0.2.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
-    "C:\\Users\\MaxDev42\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+    "C:\\Users\\maxde\\.nuget\\packages\\awssdk.core\\3.5.3.8\\awssdk.core.3.5.3.8.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\awssdk.s3\\3.5.10\\awssdk.s3.3.5.10.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.4\\microsoft.aspnetcore.http.features.5.0.4.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

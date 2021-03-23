@@ -6,7 +6,8 @@
 
 function runTestApi() {
 
-    fetch("/TestApi")
+    //fetch("/TestApi")
+    fetch("https://localhost:44330/TestApi")
         .then(response => {
             return response.json();
         })
@@ -18,7 +19,8 @@ function runTestApi() {
 
 function runTestSqlServer() {
 
-    fetch("/TestSqlServer")
+    //fetch("/TestSqlServer")
+    fetch("https://localhost:44330/TestSqlServer")
         .then(response => {
             return response.json();
         })

@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PipelineDevopsApi.Service", "PipelineDevopsApi.Service\PipelineDevopsApi.Service.csproj", "{94444ACC-55D8-4361-AF1F-5A1B3F3BAF32}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAwsS3", "TestAwsS3\TestAwsS3.csproj", "{3B766279-CBC4-425E-AED6-E33B0402D8F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.FileSystem.S3", "TestAwsS3\NetCore.FileSystem.S3.csproj", "{3B766279-CBC4-425E-AED6-E33B0402D8F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVaultSecrets", "TestVaultSecrets\TestVaultSecrets.csproj", "{CCDC519E-6134-46CE-88F7-5AA1A25E9824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestVaultSecrets", "TestVaultSecrets\TestVaultSecrets.csproj", "{CCDC519E-6134-46CE-88F7-5AA1A25E9824}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
